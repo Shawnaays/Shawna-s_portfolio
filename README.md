@@ -45,8 +45,10 @@ Comparison with different models:
 
 Results interpretation :
 •	Linear regression
-The predicted values are closer to the actual values compared to the previous example.          
+The predicted values are closer to the actual values compared to the previous example.    
+
 The differences between the actual and predicted values are relatively smaller, which could indicate that your model is performing better at approximating the actual values.
+
 •	Decision tree
 Predicting values that are generally higher than the actual values. This might indicate a tendency for your model to overestimate the target variable.
 
