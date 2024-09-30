@@ -1,4 +1,4 @@
-# Shawna_portfolio
+
 READ.ME
 Introduction :
 Nowadays with so many books available, it can be hard to select the best ones to read. The dataset provided is a curation of Goodreads books based on real user information. It can be used for many tasks like predicting a book’s rating.
@@ -52,6 +52,4 @@ The differences between the actual and predicted values are relatively smaller, 
 •	Decision tree
 Predicting values that are generally higher than the actual values. This might indicate a tendency for your model to overestimate the target variable.
 
-Project hosting and deployment :
-Github : https://github.com/Shawnaays/Shawna-s_portfolio
 
